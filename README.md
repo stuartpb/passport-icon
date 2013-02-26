@@ -1,3 +1,5 @@
+![passportjs](https://f.cloud.github.com/assets/572196/195581/9fe76ada-7ff7-11e2-9c42-7d8649d3e2b2.png)
+
 This is a logo for [Passport](http://passportjs.com).
 
 ## License
