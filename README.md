@@ -2,6 +2,8 @@ This is a logo for [Passport](http://passportjs.com).
 
 ## License
 
+Passportjs logo by Stuart P. Bentley.
+
 This logo is licensed under a
 Creative Commons Attribution-ShareAlike 3.0 Unported License.
 
